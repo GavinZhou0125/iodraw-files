@@ -327,13 +327,11 @@
         <mxCell id="PqhaWu2Qj-imE-MKHzxm-107" value="拟合函数" style="whiteSpace=wrap;html=1;fontSize=16;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="615" y="-191.5" width="110" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="PqhaWu2Qj-imE-MKHzxm-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;shadow=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PqhaWu2Qj-imE-MKHzxm-108" target="PqhaWu2Qj-imE-MKHzxm-109" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="820" y="-208" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="1YxXhDBiHOiPvtNePlcA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PqhaWu2Qj-imE-MKHzxm-108" target="1YxXhDBiHOiPvtNePlcA-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PqhaWu2Qj-imE-MKHzxm-108" value="超参数调节" style="whiteSpace=wrap;html=1;fontSize=16;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="780" y="-338" width="80" height="42" as="geometry" />
+          <mxGeometry x="780" y="-346" width="80" height="42" as="geometry" />
         </mxCell>
         <mxCell id="PqhaWu2Qj-imE-MKHzxm-109" value="GPT3&lt;br style=&quot;font-size: 16px;&quot;&gt;1750亿参数" style="whiteSpace=wrap;html=1;fontSize=16;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="780" y="-190.5" width="80" height="60.5" as="geometry" />
@@ -369,8 +367,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PqhaWu2Qj-imE-MKHzxm-123" value="&lt;div data-lark-html-role=&quot;root&quot;&gt;&lt;span style=&quot;white-space: pre;&quot; class=&quot;text-only&quot;&gt;随机搜索等&lt;/span&gt;算法&lt;br&gt;挑选参数&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="810" y="-298" width="140" height="50" as="geometry" />
+        <mxCell id="PqhaWu2Qj-imE-MKHzxm-123" value="&lt;div style=&quot;font-size: 14px;&quot; data-lark-html-role=&quot;root&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot; class=&quot;text-only&quot;&gt;随机搜索等&lt;/span&gt;算法&lt;br&gt;挑选参数&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="825" y="-304" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PqhaWu2Qj-imE-MKHzxm-128" value="求解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="475" y="-130" width="60" height="30" as="geometry" />
@@ -409,10 +407,10 @@
           <mxGeometry x="710" y="-338" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1YxXhDBiHOiPvtNePlcA-4" value="模型反向传播" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="865" y="-248" width="80" height="40" as="geometry" />
+          <mxGeometry x="865" y="-260.5" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1YxXhDBiHOiPvtNePlcA-5" value="模型反向传播" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="875" y="-238" width="80" height="40" as="geometry" />
+        <mxCell id="1YxXhDBiHOiPvtNePlcA-5" value="&lt;div data-lark-html-role=&quot;root&quot;&gt;&lt;span style=&quot;white-space: pre;&quot; class=&quot;text-only&quot;&gt;梯度下降&lt;br&gt;训练模型参数&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="865" y="-219" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
