@@ -64,14 +64,11 @@
         <mxCell id="PqhaWu2Qj-imE-MKHzxm-21" value="温度；下雨" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="455" y="-610" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PqhaWu2Qj-imE-MKHzxm-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;shadow=0;" parent="1" source="PqhaWu2Qj-imE-MKHzxm-23" target="PqhaWu2Qj-imE-MKHzxm-58" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PqhaWu2Qj-imE-MKHzxm-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=16;shadow=0;" parent="1" source="PqhaWu2Qj-imE-MKHzxm-23" target="PqhaWu2Qj-imE-MKHzxm-60" edge="1">
+        <mxCell id="1YxXhDBiHOiPvtNePlcA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PqhaWu2Qj-imE-MKHzxm-23" target="1YxXhDBiHOiPvtNePlcA-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PqhaWu2Qj-imE-MKHzxm-23" value="&lt;div data-lark-html-role=&quot;root&quot;&gt;&lt;span style=&quot;white-space: pre;&quot; class=&quot;text-only&quot;&gt;医学数据标注&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="585" y="-610" width="170" height="60" as="geometry" />
+          <mxGeometry x="585" y="-610" width="105" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PqhaWu2Qj-imE-MKHzxm-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;shadow=0;" parent="1" source="PqhaWu2Qj-imE-MKHzxm-24" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -431,6 +428,12 @@
         </mxCell>
         <mxCell id="1YxXhDBiHOiPvtNePlcA-15" value="&lt;div data-lark-html-role=&quot;root&quot;&gt;&lt;span style=&quot;white-space: pre;&quot; class=&quot;text-only&quot;&gt;基于逻辑规则&lt;br&gt;（如 IF - THEN）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="-488" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1YxXhDBiHOiPvtNePlcA-16" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-lark-html-role=&quot;root&quot;&gt;&lt;span style=&quot;white-space: pre;&quot; class=&quot;text-only&quot;&gt;模型训练&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="735" y="-610" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1YxXhDBiHOiPvtNePlcA-19" value="临床验证" style="whiteSpace=wrap;html=1;fontSize=16;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="865" y="-608" width="87.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
