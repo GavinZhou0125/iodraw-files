@@ -369,8 +369,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PqhaWu2Qj-imE-MKHzxm-123" value="挑选参数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="840" y="-290" width="90" height="30" as="geometry" />
+        <mxCell id="PqhaWu2Qj-imE-MKHzxm-123" value="&lt;div data-lark-html-role=&quot;root&quot;&gt;&lt;span style=&quot;white-space: pre;&quot; class=&quot;text-only&quot;&gt;随机搜索等&lt;/span&gt;算法&lt;br&gt;挑选参数&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="810" y="-298" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PqhaWu2Qj-imE-MKHzxm-128" value="求解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="475" y="-130" width="60" height="30" as="geometry" />
@@ -404,6 +404,9 @@
         </mxCell>
         <mxCell id="1YxXhDBiHOiPvtNePlcA-1" value="梯度下降用梯度更新参数" style="whiteSpace=wrap;html=1;fontSize=16;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="-100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1YxXhDBiHOiPvtNePlcA-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="735" y="-342" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
