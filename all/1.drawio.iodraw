@@ -333,7 +333,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PqhaWu2Qj-imE-MKHzxm-108" value="超参数调节" style="whiteSpace=wrap;html=1;fontSize=16;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="780" y="-310" width="80" height="42" as="geometry" />
+          <mxGeometry x="780" y="-338" width="80" height="42" as="geometry" />
         </mxCell>
         <mxCell id="PqhaWu2Qj-imE-MKHzxm-109" value="GPT3&lt;br style=&quot;font-size: 16px;&quot;&gt;1750亿参数" style="whiteSpace=wrap;html=1;fontSize=16;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="780" y="-190.5" width="80" height="60.5" as="geometry" />
@@ -347,10 +347,13 @@
         <mxCell id="PqhaWu2Qj-imE-MKHzxm-110" value="非凸优化" style="whiteSpace=wrap;html=1;fontSize=16;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="445" y="-68" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PqhaWu2Qj-imE-MKHzxm-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;shadow=0;" parent="1" source="PqhaWu2Qj-imE-MKHzxm-111" target="PqhaWu2Qj-imE-MKHzxm-130" edge="1">
+        <mxCell id="PqhaWu2Qj-imE-MKHzxm-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;shadow=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="1YxXhDBiHOiPvtNePlcA-1" target="PqhaWu2Qj-imE-MKHzxm-130" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="745" y="-83" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1YxXhDBiHOiPvtNePlcA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PqhaWu2Qj-imE-MKHzxm-111" target="1YxXhDBiHOiPvtNePlcA-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PqhaWu2Qj-imE-MKHzxm-111" value="反向传播计算梯度" style="whiteSpace=wrap;html=1;fontSize=16;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="625" y="-100" width="90" height="40" as="geometry" />
@@ -367,7 +370,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PqhaWu2Qj-imE-MKHzxm-123" value="挑选参数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="820" y="-250.5" width="90" height="30" as="geometry" />
+          <mxGeometry x="840" y="-290" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PqhaWu2Qj-imE-MKHzxm-128" value="求解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="475" y="-130" width="60" height="30" as="geometry" />
@@ -399,8 +402,8 @@
         <mxCell id="ALaijzfiIfnw7_uLNHcj-12" value="&lt;span style=&quot;font-size: 15px; text-wrap-mode: nowrap;&quot;&gt;Bert Transformer编码器结构代表&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1030" y="70" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1YxXhDBiHOiPvtNePlcA-1" value="反向传播计算梯度" style="whiteSpace=wrap;html=1;fontSize=16;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="635" y="-90" width="90" height="40" as="geometry" />
+        <mxCell id="1YxXhDBiHOiPvtNePlcA-1" value="梯度下降用梯度更新参数" style="whiteSpace=wrap;html=1;fontSize=16;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="-100" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
