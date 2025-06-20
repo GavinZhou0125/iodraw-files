@@ -266,6 +266,11 @@
         <mxCell id="PqhaWu2Qj-imE-MKHzxm-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;shadow=0;" parent="1" source="PqhaWu2Qj-imE-MKHzxm-91" target="PqhaWu2Qj-imE-MKHzxm-89" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="1YxXhDBiHOiPvtNePlcA-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PqhaWu2Qj-imE-MKHzxm-91">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1410" y="-90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PqhaWu2Qj-imE-MKHzxm-91" value="卷积神经网络" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1050" y="-166.5" width="190" height="32" as="geometry" />
         </mxCell>
@@ -429,11 +434,23 @@
         <mxCell id="1YxXhDBiHOiPvtNePlcA-15" value="&lt;div data-lark-html-role=&quot;root&quot;&gt;&lt;span style=&quot;white-space: pre;&quot; class=&quot;text-only&quot;&gt;基于逻辑规则&lt;br&gt;（如 IF - THEN）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="-488" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="1YxXhDBiHOiPvtNePlcA-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1YxXhDBiHOiPvtNePlcA-16" target="1YxXhDBiHOiPvtNePlcA-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1YxXhDBiHOiPvtNePlcA-16" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-lark-html-role=&quot;root&quot;&gt;&lt;span style=&quot;white-space: pre;&quot; class=&quot;text-only&quot;&gt;模型训练&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=16;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="735" y="-610" width="85" height="60" as="geometry" />
+          <mxGeometry x="710" y="-610" width="85" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1YxXhDBiHOiPvtNePlcA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1YxXhDBiHOiPvtNePlcA-19" target="PqhaWu2Qj-imE-MKHzxm-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1YxXhDBiHOiPvtNePlcA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1YxXhDBiHOiPvtNePlcA-19" target="PqhaWu2Qj-imE-MKHzxm-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1YxXhDBiHOiPvtNePlcA-19" value="临床验证" style="whiteSpace=wrap;html=1;fontSize=16;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="865" y="-608" width="87.5" height="60" as="geometry" />
+          <mxGeometry x="815" y="-610" width="87.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1YxXhDBiHOiPvtNePlcA-25" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="-80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
